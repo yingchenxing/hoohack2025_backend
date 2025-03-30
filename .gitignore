@@ -22,6 +22,8 @@ pids
 dist/
 build/
 coverage/
+temp/
+temp/*
 
 # System files
 .DS_Store
